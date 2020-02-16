@@ -1,0 +1,5 @@
+(in-package #:rad-user)
+(define-module #:example
+  (:use #:cl #:radiance))
+(in-package #:example)
+
